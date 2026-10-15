@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Learning Mentor"
+  short_description: "长期陪伴式 AI 学习导师，覆盖知识教学、实践、项目与复盘"
+  default_prompt: "Use $driving-ai-learning to continue my learning, teach the next concept, guide practice, and update my learning record."
